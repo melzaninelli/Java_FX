@@ -25,4 +25,17 @@ Este projeto é ideal para iniciantes que desejam aprender sobre GUI em Java e c
 ---
 
 ## 📁 Estrutura do Repositório
+.settings/
+
+bin/application/
+
+src/application/
+
+.classpath
+
+.project
+
+README.md
+
+build.fxbuild
 
